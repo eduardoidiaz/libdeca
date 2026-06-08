@@ -20,7 +20,7 @@
 
 #include "log.h"
 #define DWPHY_PRF			DWT_PRF_64M
-#define TEST_EXAMPLE_CONFIG 0
+#define TEST_EXAMPLE_CONFIG 1
 
 #ifndef __ZEPHYR__
 static const char* LOG_TAG = "DECA";
